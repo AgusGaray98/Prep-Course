@@ -42,7 +42,7 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
 }
-
+6
 // No modificar nada debajo de esta línea
 // --------------------------------
 
